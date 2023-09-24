@@ -3,8 +3,9 @@
 /* Step 1 - Setup type tasks - no code required */
 
 /* Step 2 - Variables */
-
-
+let fullName = 'Nicholas Olsen';
+let currentYear = '2023';
+let profilePicture = 'images/me.jpg';
 
 
 /* Step 3 - Element Variables */
